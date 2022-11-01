@@ -9,12 +9,8 @@
       "{",
       "ios_base::sync_with_stdio(false);",
       "cin.tie(NULL);",
-<<<<<<< HEAD
       "$1",
-=======
-"$1"
->>>>>>> 77e27ca530badf66bbf48cabba887281293e5b91
-      " return 0;",
+      "return 0;",
       "}"
     ],
     "description": "to produce the main snippet for cpp"
