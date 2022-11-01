@@ -2,7 +2,7 @@
   "cpp snippets": {
     "prefix": "cpp",
     "body": [
-      "#include<iostream>",
+      "#include <bits/stdc++.h>",
       "using namespace std;",
 
       "int main()",
